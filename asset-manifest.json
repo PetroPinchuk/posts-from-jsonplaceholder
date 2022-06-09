@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/posts-from-jsonplaceholder/static/css/main.2e01e89c.css",
+    "main.js": "/posts-from-jsonplaceholder/static/js/main.02d60f99.js",
+    "static/media/headlessui.svg": "/posts-from-jsonplaceholder/static/media/headlessui.a5c0e0aee65aa2c77d3003f1e0e87865.svg",
+    "index.html": "/posts-from-jsonplaceholder/index.html",
+    "main.2e01e89c.css.map": "/posts-from-jsonplaceholder/static/css/main.2e01e89c.css.map",
+    "main.02d60f99.js.map": "/posts-from-jsonplaceholder/static/js/main.02d60f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e01e89c.css",
+    "static/js/main.02d60f99.js"
+  ]
+}
